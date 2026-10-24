@@ -1,0 +1,2 @@
+#!/bin/bash
+sed -i 's/val hasExplicitBlocks = parsedBlocks.isNotEmpty() || combinedText.contains("{")/val master = story.masterTimeline.lowercase()\n        val hasStrictFormat = master.contains("{") \&\& master.contains("}") \&\& master.contains("s:") \&\& master.contains("t:") \&\& master.contains("c:") \&\& master.contains("w:")\n        val hasExplicitBlocks = hasStrictFormat/g' app/src/main/java/com/example/data/pipeline/AiPipelineProcessor.kt

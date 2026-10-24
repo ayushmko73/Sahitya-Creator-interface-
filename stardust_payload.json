@@ -1,0 +1,19 @@
+{
+  "id": "story_draft_stardust_02",
+  "title": "Stardust & Silicon",
+  "subtitle": "Interstellar AI & Lost Earth Relics",
+  "description": "A lone archivist stationed on Jupiter's outermost moon uncovers an encrypted quantum diary from Earth's ancient archives, unlocking forgotten secrets of humanity's digital heritage.",
+  "category": "Sci-Fi",
+  "main_thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+  "banner_image": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?w=1200",
+  "is_anime": false,
+  "status": "Published",
+  "formatted_timeline_encrypted": "encrypted_timeline",
+  "system_prompt_encrypted": "encrypted_prompt",
+  "quality_score": 98,
+  "compressed_tokens": 1024,
+  "user_app_ready": true,
+  "total_views": 150000,
+  "total_chats": 85000,
+  "updated_at": 1786693892000
+}

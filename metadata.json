@@ -1,0 +1,6 @@
+{
+  "name": "Sahitya Creator",
+  "description": "Companion Creator App for Sahitya AI chat platform - publish stories, manage characters, build anime seasons, and run cost-optimized AI pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
